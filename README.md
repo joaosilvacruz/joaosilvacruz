@@ -1,9 +1,8 @@
 ### Olá, Mundo! Eu sou o João Victor Cruz! ☕
 
-- 💻 Desenvolvedor Frontend. 
+- 💻 Desenvolvedor Web. 
 - 📚 Estudando HTML5, CSS3 e Javascript. 
 - 👁️‍🗨️ Pessoa com deficiência - Visão monocular.
-- 🌱 Vegetariano e apaixonado por plantas.
  
 
 <div>
