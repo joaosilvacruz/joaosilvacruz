@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou o João Victor Cruz! ☕
 
-- 💻 Desenvolvedor Web. 
-- 📚 Estudando HTML5, CSS3 e Javascript. 
+- 💻 Desenvolvedor. 
+- 📚 Estudando Web e Dados. 
 - 👁️‍🗨️ Pessoa com deficiência - Visão monocular.
  
 
