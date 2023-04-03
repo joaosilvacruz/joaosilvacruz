@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm João Victor Cruz ☕</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 📚 I’m currently learning **Java, Springboot, Javascript and Python**
-- 👁️‍🗨️ I’m PCD with Monocular Vision 
+- 📚 I’m currently learning **Java, Springboot, Javascript and Python**;
+- 👁️‍🗨️ I’m PCD with Monocular Vision;
+- 🌱 I'm a vegetarian and I love to cook plant-based food.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
