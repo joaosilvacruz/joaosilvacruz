@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png" width="1400" height="600" alt="Descrição da imagem">
+<img src="https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png" width="1300" height="550" alt="Descrição da imagem">
 </div>
 
 <center>
