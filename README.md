@@ -1,4 +1,6 @@
-![joaosilvacruz](https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png)
+<div align="center">
+<img src="https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png" width="1400" height="600" alt="Descrição da imagem">
+</div>
 
 <center>
 <table>
