@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm João Victor Cruz ☕</h1>
-<h3 align="center">A developer from Brazil</h3>
+![joaosilvacruz](https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png)
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilvacruz&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaosilvacruz&theme=dark" /></td>
+  </tr>   
+</table>
+</center>
 
 - 📚 I’m currently learning **Java, Springboot, Javascript and Python**;
 - 👁️‍🗨️ I’m PwD with Monocular Vision;
