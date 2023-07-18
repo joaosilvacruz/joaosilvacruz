@@ -1,24 +1,14 @@
-<div align="center">
-<img src="https://github.com/joaosilvacruz/joaosilvacruz/blob/main/img-banner.png" width="1100" height="500" alt="Descrição da imagem">
-</div>
+<h1 align="center">Hi, I'm João Victor Cruz ☕</h1>
+<h3 align="center">A developer from Brazil</h3>
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilvacruz&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaosilvacruz&theme=dark" /></td>
-  </tr>   
-</table>
-</center>
-
-- 📚 I’m currently learning **Java, Springboot, Javascript and Python**;
+- 📚 I’m currently learning **Java, Springboot, Python and SQL**;
 - 👁️‍🗨️ I’m PwD with Monocular Vision;
-- 🌱 I'm a vegetarian and I love to cook plant-based food.
+- 🌱 I'm a vegetarian and I love to cook plant-based food;
+- ♟️ I'm a enthusiastic chess player.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href = "https://www.linkedin.com/in/joaovictordsc/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-<a href = "mailto:joao.cruz.brasil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +28,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+---
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilvacruz&hide=html&layout=compact&theme=dark" />
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaosilvacruz&theme=dark" />
